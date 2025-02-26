@@ -1,0 +1,90 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:700");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/67bf5ad24214d30f8e5b04b1.67bf5ad34214d30f8e5b04b4.Iky0gba.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.body-shared {
+  align-items: flex-start;
+  align-self: stretch;
+  background: linear-gradient(180deg, rgb(111, 102, 102) 0%, rgb(255, 255, 255) 100%);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.heading-1margin {
+  align-items: flex-start;
+  padding: 0px 0px 20px;
+}
+
+.heading-1 {
+  align-items: center;
+  padding: 0px 0px 1px;
+}
+
+.vuela-por-colombia-desde-49999 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 0px 40px;
+}
+
+.container-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 1px;
+  position: relative;
+}
+
+.reserva-hoy-mismo-y {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.heading {
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
